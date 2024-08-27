@@ -5,6 +5,7 @@
 inventory = ["sword", "armor", "shield", "healing potion"]
 print("Hello world")
 print("hello world")
+print("Mushtaq")
 #define the menu options as a mutiline string
 menu_options = """These are your options:
                    1 - Show inventory
